@@ -1,0 +1,11 @@
+1: Las palabras de los nombres (de variables, funciones, clases, etc) van separados por guion bajo.
+
+2: Las variables y parametos van en todo minuscula.
+
+3: Las constantes van en todo mayuscula.
+
+4: Para las funciones, datatypes, clases e interfaces: sus palabras no conectores (ej: "para", "de" , "su") empiezan con mayuscula.
+
+5: Los datatype son: empiezan por DT_ seguido por el nombre de la clase a la cual representan.
+
+6: Las variables de un datatype no pueden ser punteros.
