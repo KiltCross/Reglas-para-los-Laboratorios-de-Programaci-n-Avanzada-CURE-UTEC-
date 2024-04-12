@@ -4,7 +4,7 @@
 
 3: Las constantes van en todo mayuscula.
 
-4: Para las funciones, datatypes, clases e interfaces: sus palabras no conectores (ej: "para", "de" , "su") empiezan con mayuscula.
+4: Para las funciones, datatypes, clases, interfaces y nombre de archivos: sus palabras no conectores (ej: "para", "de" , "su") empiezan con mayuscula.
 
 5: Los datatype son: empiezan por DT_ seguido por el nombre de la clase a la cual representan.
 
