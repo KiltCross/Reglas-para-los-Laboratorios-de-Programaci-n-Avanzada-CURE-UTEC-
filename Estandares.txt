@@ -1,11 +1,24 @@
+Estandares de Nombres:
+
 1: Las palabras de los nombres (de variables, funciones, clases, etc) van separados por guion bajo.
 
 2: Las variables y parametos van en todo minuscula.
 
 3: Las constantes van en todo mayuscula.
 
-4: Para las funciones, datatypes, clases, interfaces y nombre de archivos: sus palabras no conectores (ej: "para", "de" , "su") empiezan con mayuscula.
+4: Para las funciones, datatypes, clases e interfaces: sus palabras no conectores (ej: "para", "de" , "su") empiezan con mayuscula.
 
 5: Los datatype son: empiezan por DT_ seguido por el nombre de la clase a la cual representan.
 
-6: Las variables de un datatype no pueden ser punteros.
+6: Las funciones deben de ser referenciadas como: su nombre seguido de '()'. Ejemplo Sumar().
+
+7: Cada vez que se referecie un elemente se deberá utilizar el nombre dado a este. Ejemplo: una funcion llamado Imprimer_Precio() debera se referenciada como Imprimir_Precio() en vez de "La funcion que imprime el precio".
+
+
+Criticas: 
+
+1: Una vez por semana cada compañero debe revisar el trabajo de todos sus compañeros detalladamente.
+
+2: Si durante una inspección un compañero nota un problema con el trabajo de otro compañero, este debera escribir su critica en la lista "Criticas" de Trello, y debe escribirse: primero el nombre del Compañero seguido de ':' y la critica.
+
+3: Si el problema necesita discusión se debera agendar una fecha y hora para realizar una videoconferencia discutiendo el asunto.
