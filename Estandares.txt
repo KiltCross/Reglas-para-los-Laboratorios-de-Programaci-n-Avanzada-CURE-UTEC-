@@ -2,7 +2,7 @@ Estandares de Nombres:
 
 1: Las palabras de los nombres (de variables, funciones, clases, etc) van separados por guion bajo.
 
-2: Las variables y parametos van en todo minuscula.
+2: Las variables, parametos, atributos, los nombres de los tipos de datos genericos (ej: integer, string), las enumeraciones  y los structs van en todo minuscula.
 
 3: Las constantes van en todo mayuscula.
 
