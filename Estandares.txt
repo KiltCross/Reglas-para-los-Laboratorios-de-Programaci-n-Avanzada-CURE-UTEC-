@@ -14,6 +14,9 @@ Estandares de Nombres:
 
 7: Cada vez que se referecie un elemente se deberá utilizar el nombre dado a este. Ejemplo: una funcion llamado Imprimer_Precio() debera se referenciada como Imprimir_Precio() en vez de "La funcion que imprime el precio".
 
+8: No se deben utilizar tildes.
+
+9: La "ñ" deberá se replazada por "ni".
 
 Criticas: 
 
