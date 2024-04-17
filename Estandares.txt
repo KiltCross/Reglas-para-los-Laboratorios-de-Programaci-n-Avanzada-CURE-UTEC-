@@ -2,11 +2,11 @@ Estandares de Nombres:
 
 1: Las palabras de los nombres (de variables, funciones, clases, etc) van separados por guion bajo.
 
-2: Las variables, parametos, atributos, los nombres de los tipos de datos genericos (ej: integer, string), las enumeraciones  y los structs van en todo minuscula.
+2: Las variables, parametos, atributos, los nombres de los tipos de datos genericos (ej: integer, string)  y los structs van en todo minuscula.
 
 3: Las constantes van en todo mayuscula.
 
-4: Para las funciones, datatypes, clases e interfaces: sus palabras no conectores (ej: "para", "de" , "su") empiezan con mayuscula.
+4: Para las funciones, datatypes, clases, las enumeraciones e interfaces: sus palabras no conectores (ej: "para", "de" , "su") empiezan con mayuscula.
 
 5: Los datatype son: empiezan por DT_ seguido por el nombre de la clase a la cual representan.
 
