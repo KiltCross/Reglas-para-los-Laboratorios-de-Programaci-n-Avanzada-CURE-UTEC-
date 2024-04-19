@@ -18,6 +18,8 @@ Estandares de Nombres:
 
 9: La "ñ" deberá se replazada por "ni".
 
+10: Utilizar palabras completas.
+
 Criticas: 
 
 1: Una vez por semana cada compañero debe revisar el trabajo de todos sus compañeros detalladamente.
